@@ -1,0 +1,7 @@
+C:\Programming\GalaxyBackup\GalaxyBackup\bin\Debug\GalaxyBackup.exe.config
+C:\Programming\GalaxyBackup\GalaxyBackup\bin\Debug\GalaxyBackup.exe
+C:\Programming\GalaxyBackup\GalaxyBackup\bin\Debug\GalaxyBackup.pdb
+C:\Programming\GalaxyBackup\GalaxyBackup\obj\Debug\GalaxyBackup.csprojAssemblyReference.cache
+C:\Programming\GalaxyBackup\GalaxyBackup\obj\Debug\GalaxyBackup.csproj.CoreCompileInputs.cache
+C:\Programming\GalaxyBackup\GalaxyBackup\obj\Debug\GalaxyBackup.exe
+C:\Programming\GalaxyBackup\GalaxyBackup\obj\Debug\GalaxyBackup.pdb
